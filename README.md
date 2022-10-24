@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shriyajo
 - 👀 I’m interested in computer science, tennis, and music
-- 🌱 I’m currently learning python!
+- 🌱 I’m currently learning python and java!
 - 💞️ I’m looking to collaborate on machine learning and AI projects
 - 📫 Follow me on Twitter @ShriyaJo
 
