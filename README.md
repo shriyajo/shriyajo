@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @shriyajo
-- 👀 I’m interested in computer science, tennis, and music
-- 🌱 I’m currently learning python and java!
-- 💞️ I’m looking to collaborate on machine learning and AI projects
-- 📫 Follow me on Twitter @ShriyaJo
-- 📷Follow me on Instagram @shriya.jo
+- 👋 hi, i’m shriyajo
+- 👀 i’m interested in computer science, tennis, and music
+- 🌱 i’m currently learning python, java and rust!
+- 💞️ i’m looking to collaborate on ML and bioinformatics projects
+- 📷 follow me on Instagram @shriya.jonnalagadda
 
 <!---
 shriyajo/shriyajo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
