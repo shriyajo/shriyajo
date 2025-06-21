@@ -1,4 +1,4 @@
-- 👋 hi, i’m shriyajo
+- 👋 hi, i’m shriya
 - 👀 i’m interested in computer science, tennis, and music
 - 🌱 i’m currently learning python, java and rust!
 - 💞️ i’m looking to collaborate on ML and bioinformatics projects
