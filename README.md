@@ -1,5 +1,5 @@
 - 👋 hi, i’m shriya
-- 👀 i’m interested in computer science, tennis, and music
+- 👀 i’m interested in data science, startups, and music. 
 - 🌱 i’m currently learning python, java and rust!
 - 💞️ i’m looking to collaborate on ML and bioinformatics projects
 - 📷 follow me on Instagram @shriya.jonnalagadda
